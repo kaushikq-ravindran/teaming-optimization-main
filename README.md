@@ -9,7 +9,7 @@ Developed an algorithm for forming effective teams in academic settings, focusin
 
 Our goal was to create an algorithm for making teams of students in a class. We wanted to make it easier to form teams that had favorable qualities for ensuring the team would work well together.
 
-##Usage
+## Usage
 
 Requires networkx for graph-based data representation and pandas for handling survey data. The project involves generating graph and clique data from student surveys and applying optimization algorithms for team formation.
 
