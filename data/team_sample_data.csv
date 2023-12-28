@@ -1,0 +1,27 @@
+Name,Silver Bullet #1,Silver Bullet #2,Preference #1,Preference #2,Preference #3,Preference #4,Preference #5,Preference #6,Mgmt intr.,Mgmt exp.,Elex intr.,Elex exp.,Prog intr.,Prog exp.,CAD intr.,CAD exp.,Fab intr.,Fab exp.,Commitment (meet req -> beyond),Category interests (comma separated categories)
+A,N,A,T,P,B,T,T,W,2,1,3,2,4,5,5,2,3,3,4,"music, art, food"
+B,Z,M,P,A,I,W,V,T,5,4,1,4,2,1,1,3,3,5,1,art
+C,Y,I,P,A,B,T,A,T,4,2,2,4,5,1,4,2,2,5,2,mobile robots
+D,V,K,I,A,B,T,K,T,5,2,1,5,5,4,3,5,1,3,2,art
+E,I,Y,A,A,B,P,O,P,1,3,2,5,5,1,4,2,1,1,3,"speech, projectile"
+F,V,H,Z,A,B,O,Z,T,1,4,1,5,2,2,5,5,5,2,4,music
+G,Y,T,Z,A,B,R,N,R,4,1,1,3,5,2,3,5,4,1,4,music
+H,M,T,N,A,B,M,I,T,4,4,2,2,3,4,3,3,5,5,5,art
+I,O,H,O,A,B,W,P,T,2,3,3,1,4,4,2,4,4,2,5,art
+J,W,M,M,A,B,R,K,W,1,5,5,4,3,2,5,1,4,1,1,art
+K,T,V,P,A,B,P,P,T,4,4,5,1,1,5,2,4,4,3,2,art
+L,O,O,T,A,B,M,Z,T,1,2,5,1,3,5,5,2,5,5,3,art
+M,P,V,P,A,B,W,P,T,5,5,1,5,2,5,2,1,2,5,2,art
+N,O,V,M,A,B,W,P,R,2,1,3,5,1,5,1,3,5,3,5,"music, art"
+O,K,M,O,A,B,T,O,W,3,1,5,3,2,3,3,4,5,2,5,"music, art"
+P,R,P,V,A,B,K,P,K,4,2,3,2,5,4,3,5,4,5,4,"music, art"
+Q,M,T,K,A,B,M,O,M,3,1,2,1,5,2,5,1,1,5,4,"music, art"
+R,P,W,P,A,B,O,P,W,3,1,5,3,4,2,3,4,5,5,4,"music, art"
+S,W,P,P,A,B,W,M,M,1,2,1,5,1,1,5,3,5,2,2,"music, art"
+T,Q,P,M,A,B,T,M,W,4,4,2,4,2,5,4,5,5,5,2,"music, art"
+U,M,R,O,A,B,W,I,K,1,5,2,3,4,1,5,4,5,5,5,"music, art"
+V,A,W,M,A,B,W,O,T,3,3,4,3,3,1,4,4,5,1,3,"music, art"
+W,H,I,V,A,B,M,P,P,3,3,5,2,4,4,1,5,5,1,2,"music, art"
+X,R,R,N,A,B,P,Z,P,4,5,5,2,5,4,4,4,2,1,2,"music, art"
+Y,T,N,M,A,B,T,V,M,5,3,4,3,2,4,4,2,2,4,4,art
+Z,P,W,N,A,B,T,P,P,4,4,3,5,3,3,5,2,1,3,4,art

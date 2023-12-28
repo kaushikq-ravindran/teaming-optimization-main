@@ -1,0 +1,55 @@
+Student,Pronouns,ClassTime,IntLeadership,ExpLeadership,IntElecProto,ExpElecProto,IntProg,ExpProg,IntMechCAD,ExpMechCAD,IntMechFab,ExpMechFab,Prefs,AntiPrefs,ProjTopics
+AQ,he/him,A,3,3,2,1,4,3,4,1,3,1,,RW;WK,food makers;art makers;projectile launchers
+BC,she/her,A,2,3,5,2,1,2,1,1,1,1,YA;JI,,art makers;mechatronic puzzle boxes;responsive playground equipment;reactive kinetic sculptures;mechatronic penny arcade games
+BR,he/him,A,4,4,4,3,4,4,2,2,3,2,,,mechatrionic smart speaker / home assistants;food makers;music makers;projectile launchers
+CI,she/her,A,2,4,1,1,1,2,5,5,4,5,SL,DZ;SB,food makers;music makers;mechatrionic smart speaker / home assistants;mobile robots;projectile launchers;music audio-visualizers
+CJ,she/her,A,3,4,5,5,3,4,4,3,3,3,UC;AJ,,food makers;art makers;music makers;reactive kinetic sculptures;mechatronic penny arcade games;music audio-visualizers;gantry systems
+CP,she/her,A,3,4,4,3,5,5,3,2,3,3,TZ;UO;LO;UM,,food makers;art makers;music makers;responsive playground equipment;reactive kinetic sculptures;part sorters;mechatronic penny arcade games;mobile robots;projectile launchers;music audio-visualizers
+DI,he/him,A,4,4,4,3,1,2,4,5,5,5,PG;BS,,speech recognizers;mechatrionic smart speaker / home assistants;part sorters;mechatronic penny arcade games;mobile robots
+DQ,he/him,A,5,3,1,1,2,2,5,5,3,5,YQ,VR;JL,reactive kinetic sculptures;gantry systems;mobile robots;projectile launchers
+EI,she/her,A,4,5,1,1,2,2,3,4,3,4,WQ;DE;CP;SP,FJ;DI,and slide rules ;reactive kinetic sculptures;Space;flying things;mobile robots;projectile launchers
+FE,she/her,A,4,4,3,1,2,1,5,4,5,3,ZA;TE;KA,IE;HD,speech recognizers;art makers;music makers;reactive kinetic sculptures;music audio-visualizers
+FG,he/him,A,2,2,2,2,3,3,5,4,5,4,EW,AC,Kinetic sculptuire;gantry systems
+FJ,she/her,A,2,4,4,2,3,2,5,5,5,5,MZ,,music makers;responsive playground equipment;reactive kinetic sculptures;mobile robots;projectile launchers;things that bounce
+FX,she/her,A,3,5,3,3,4,2,2,4,2,3,WQ;JY,JP,speech recognizers;art makers;responsive playground equipment;reactive kinetic sculptures;part sorters;mechatronic penny arcade games;projectile launchers;music audio-visualizers
+GP,she/her,A,3,1,4,2,4,3,1,2,2,1,GN;WP;LX;EO,RB,food makers;mechatronic puzzle boxes;responsive playground equipment;reactive kinetic sculptures;mobile robots
+HF,she/her,A,5,5,3,2,1,1,5,5,5,5,,,part sorters;art makers;music makers;gantry systems
+HQ,he/him,A,4,3,3,3,4,3,5,4,5,4,YV;XG;IO;ZW,,small flywheel - precision controlled kinetic energy storage system
+IT,she/her,A,4,3,3,4,4,3,4,3,4,3,PG;UH;BM;EG,,reactive kinetic sculptures;art makers;music makers;projectile launchers
+KG,he/him,A,4,5,5,3,2,2,1,2,2,3,PW;RS;YP;SO;VV;WK,JP,food makers;speech recognizers;mechatronic puzzle boxes;mechatrionic smart speaker / home assistants;mobile robots
+MU,she/her,A,5,4,3,3,4,3,3,1,3,2,,LO,food makers;art makers;music makers;mechatronic puzzle boxes;reactive kinetic sculptures;mobile robots
+MX,he/him,A,1,3,2,3,1,2,5,5,5,4,HI;SD;FR;BS;SR;VE,XX;EC,food makers;music makers
+MY,she/her,A,2,4,3,4,4,3,4,2,5,3,,,food makers;speech recognizers;art makers;music makers;responsive playground equipment;part sorters;mechatronic penny arcade games;electronic blinds/security system;mobile robots;projectile launchers;music audio-visualizers
+MZ,she/her,A,1,4,2,2,5,5,2,1,2,2,FJ,RY,food makers;art makers;music makers;reactive kinetic sculptures;mobile robots;projectile launchers;music audio-visualizers
+NB,he/him,A,2,3,4,4,1,2,4,3,5,4,TZ;BY;UM;ES,HK,food makers;art makers;responsive playground equipment;reactive kinetic sculptures;part sorters;mobile robots;projectile launchers
+ND,he/him,A,2,2,5,3,4,3,1,2,2,2,DS,WB,art makers;mechatronic puzzle boxes;reactive kinetic sculptures;mobile robots;projectile launchers;music audio-visualizers
+NO,she/her,A,5,2,4,1,4,3,2,1,4,2,WY;XR;EC,,music makers;responsive playground equipment;mechatronic puzzle boxes;reactive kinetic sculptures;part sorters;mechatronic penny arcade games;mechatrionic smart speaker / home assistants;mobile robots;projectile launchers;music audio-visualizers;gantry systems
+OD,she/her,A,4,3,1,1,3,3,5,2,1,1,,FJ,food makers;music makers;music audio-visualizers;responsive playground equipment
+OR,she/her,A,4,3,3,3,4,2,3,3,4,5,WY;LC;BC,TS,mechatronic penny arcade games;experimental electromechanical systems;Energy storage devices
+OW,she/her,A,3,3,5,2,3,4,2,3,2,1,XR,,food makers;art makers;music makers;mobile robots;music audio-visualizers
+PH,he/him,A,3,1,3,3,5,5,2,3,2,3,BE;DZ;PJ;QE;CK,,food makers;speech recognizers;Consumer electronics (stuff like headphones but smaller-scale & PIE-friendly);mechatronic puzzle boxes;responsive playground equipment;mechatrionic smart speaker / home assistants;reactive kinetic sculptures;mechatronic penny arcade games;mobile robots;projectile launchers
+PJ,he/him,A,2,2,3,2,4,2,2,1,4,1,PH;DZ;NF;QE,WB,food makers;art makers;music makers;responsive playground equipment;mechatronic puzzle boxes;reactive kinetic sculptures;mechatronic penny arcade games;mechatrionic smart speaker / home assistants;projectile launchers
+PS,she/her,A,5,4,1,1,1,1,5,4,5,4,,FZ,food makers;mechatronic puzzle boxes;music makers;mobile robots;projectile launchers
+PW,he/him,A,3,3,3,3,2,1,5,5,5,4,,RI,food makers;art makers;music makers;responsive playground equipment;mechatronic puzzle boxes;reactive kinetic sculptures;mechatronic penny arcade games
+QU,he/him,A,1,3,4,2,1,3,5,5,5,4,,XH,
+RB,he/him,A,3,5,2,3,5,5,1,2,2,2,YX;SB;YL,KW;GP,art makers;music makers;responsive playground equipment;mechatronic puzzle boxes;reactive kinetic sculptures;part sorters;mechatronic penny arcade games;smart sex toys (sensor response & bluetooth control);gantry systems
+RW,she/her,A,3,2,5,4,3,4,1,1,1,2,WK;FN,,food makers;music audio-visualizers;projectile launchers
+SB,she/her,A,3,4,1,1,1,1,5,4,5,4,YX;RB;YL,DV;WB,art makers;music makers;mechatronic puzzle boxes;reactive kinetic sculptures;part sorters;mechatronic penny arcade games;music audio-visualizers
+SD,he/him,A,2,2,4,3,4,4,2,3,3,2,MX;FR;BS;SR;VE,SB,reactive kinetic sculptures;mobile robots;music audio-visualizers
+SO,he/him,A,3,3,4,4,3,3,3,3,4,4,YP;KG;IU;EC,,mechatronic puzzle boxes;responsive playground equipment;reactive kinetic sculptures;part sorters;projectile launchers
+SP,he/him,A,4,5,4,4,3,3,5,5,5,4,DE;CP;EI,WB,music makers;part sorters;mechatronic penny arcade games;mobile robots;projectile launchers
+SR,he/him,A,3,4,5,5,3,3,2,2,1,1,MX;SD,,food makers;art makers;music makers;reactive kinetic sculptures;mobile robots;projectile launchers
+TS,she/her,A,2,3,2,2,1,2,5,4,5,5,,OR,art makers;responsive playground equipment;mechatronic penny arcade games;mobile robots;projectile launchers;music audio-visualizers
+TZ,she/her,A,4,4,5,4,5,4,3,3,1,2,NB;DE;ES;SP;LO;CP,,reactive kinetic sculptures;art makers
+UC,he/him,A,2,3,1,1,3,2,4,2,3,2,UY;OG;TE;AJ,,food makers;music makers;responsive playground equipment;mechatrionic smart speaker / home assistants;music audio-visualizers
+VD,she/her,A,2,3,1,1,5,5,1,2,1,1,BC;RW;SP;BY;UM;BL,PH;SZ,food makers;mechatronic puzzle boxes;music makers;mechatrionic smart speaker / home assistants;mechatronic penny arcade games;mobile robots
+VS,she/her,A,3,3,2,1,2,3,4,5,5,3,FR;VS;QO;MP;KD,DV,reactive kinetic sculptures;gantry systems;mobile robots;projectile launchers
+VX,she/her,A,4,3,4,2,5,5,2,2,2,1,DZ;FG;EW;PJ,,food makers;art makers;music makers;mechatronic puzzle boxes;reactive kinetic sculptures;mechatronic penny arcade games
+WD,he/him,A,5,4,2,3,2,4,5,5,5,5,UH;PG;BM;EG;IT,,reactive kinetic sculptures;food makers;mobile robots;projectile launchers
+WP,she/her,A,3,5,2,3,1,3,3,4,5,4,GN;LX;GP;EO,BD;FE,food makers;music makers;part sorters;projectile launchers;music audio-visualizers
+YA,he/him,A,3,3,4,2,4,4,2,1,2,1,RY;TZ;BC;LT;LO;JI,JL;DQ,mechatronic puzzle boxes;part sorters;mobile robots;projectile launchers;gantry systems
+YI,he/him,A,2,4,3,4,5,5,1,1,1,1,YN;UO;LO,RY,art makers;music makers;mechatronic penny arcade games;mobile robots;music audio-visualizers
+ZA,he/him,A,4,4,5,4,4,4,2,3,3,1,TE;LS;KA,MP;FE,reactive kinetic sculptures;art makers;mobile robots
+ZB,she/her,A,4,4,3,3,3,5,5,3,5,3,XG;JS;FN;BO,PO,food makers;art makers;mobile robots;gantry systems
+ZV,he/him,A,3,2,2,1,3,1,4,3,5,4,,,food makers;mechatronic puzzle boxes;mechatrionic smart speaker / home assistants;mechatronic penny arcade games;mobile robots;projectile launchers;music audio-visualizers
+ZW,they/them,A,4,4,5,2,4,1,4,4,5,4,PW;KM;XG;IO;YV;HQ,XR,mechatrionic smart speaker / home assistants;food makers;projectile launchers
